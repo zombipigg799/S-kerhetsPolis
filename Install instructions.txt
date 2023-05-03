@@ -1,0 +1,36 @@
+Made by Coffe. Still using a texture by Pr0metheus
+
+----------------------------------------------------------------------Install----------------------------------------------------------------------
+
+Use OpenIV - mods - x64c - levels - gta5 - interiors - int_props - int_corporate.rpf
+
+
+Then drag and replace: 	v_corp_bombbin.ydr; v_corp_conftable.ydr; v_corp_deskseta.ydr; v_corp_desksetb.ydr; v_corp_divide.ydr; v_corp_lidesk01.ydr;
+			v_corp_officedesk.ydr; v_corp_officedesk1.ydr; v_corp_officedesk003.ydr; v_corp_officedesk004.ydr
+
+
+
+
+
+Use OpenIV - mods - x64h - levels - gta5 - interiors - int_props - int_medical.rpf
+
+Then drag and replace: 	v_med_cor_flatscreentv.ydr
+
+
+
+
+
+Use OpenIV - mods - x64h - levels - gta5 - interiors - v_int_73.rpf
+
+Then drag and replace: 	v_73_fib01_txd.ytd; v_73_fib01_txd+hi.ytd; v_73_servers001.ydr 
+
+
+
+
+
+Use OpenIV - mods - x64h - levels - gta5 - interiors - v_int_48.rpf
+
+Then drag and replace: 	v_48_dirt_dec_crdr.ydr; v_48_glass.ydr; v_48_lob_crest.ydr; v_48_recp_det.ydr; v_48_recp_det+hidr.ytd   
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
